@@ -15,3 +15,7 @@ Join the conversation on Slack [![Slack](http://slack.asgardcms.com/badge.svg)](
 ## License
 
 The AsgardCMS is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+
+-----
+这是我asgardcms 3.0 的版本。 用来下载开发用。
