@@ -50,7 +50,7 @@ class AssetsViewComposer
         $this->assetPipeline->requireJs(config('asgard.core.core.admin-required-assets.js'));
 
         event(new CollectingAssets($this->assetPipeline));
-
+        
         $view->with('cssFiles', $this->assetPipeline->allCss());
         $view->with('jsFiles', $this->assetPipeline->allJs());
     }
