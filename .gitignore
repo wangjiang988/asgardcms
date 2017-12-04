@@ -10,3 +10,4 @@ Homestead.json
 .eslintrc.js
 .gitattributes
 .php_cs.dist
+*.woff2 -text diff
